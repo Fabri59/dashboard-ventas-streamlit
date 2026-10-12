@@ -1,0 +1,22 @@
+ENLACES DEL PROYECTO — COMPLETAR DESPUÉS DE PUBLICAR
+
+1. Repositorio público de GitHub:
+PEGAR URL AQUÍ
+
+2. Dashboard publicado en Streamlit Community Cloud:
+PEGAR URL AQUÍ
+
+3. Artículo publicado en Medium:
+PEGAR URL AQUÍ
+
+4. Video público (máximo 5 minutos):
+PEGAR URL AQUÍ
+
+5. Evidencia del workflow de GitHub Actions:
+PEGAR URL DEL WORKFLOW AQUÍ
+
+Integrante:
+ESCRIBIR NOMBRE
+
+Curso:
+ESCRIBIR CURSO
